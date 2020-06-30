@@ -1,0 +1,20 @@
+git --version (verifica versao)
+git config --global user.name "nomeaqui"
+git config --global user.email "emailaqui"
+git config --list (verificar config)
+
+git init (inicia repositorio)
+
+git status (lista todos os arquivos dentro do diretorio)
+
+git add . (adiciona todos arquivos para o commit)
+
+git commit -m "comentario" (faz o comit com o comentario)
+
+git push -u origin master (faz o upload para github)
+
+-======== atualizaçao
+
+git add .
+git commit -m "comentario"
+git push origin master
